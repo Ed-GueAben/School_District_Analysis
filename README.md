@@ -1,7 +1,7 @@
 # School_District_Analysis
 
 ## Overview of the school district analysis
-School board analysis for two cvs files, students_complete.cvs and school_complete.cvs where we will get the key district metrics, presented in a table format. 
+School board analysis for two cvs files, 'students_complete.cvs' and 'school_complete.cvs' where we will get the key district metrics, presented in a table format. 
 
 List of deliverables for the analysis of the school district: 
 - A high-level snapshot of the district's key metrics, presented in a table format

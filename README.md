@@ -58,17 +58,21 @@ Here we can see there is an increase in percetages for % Passing Math,	% Passing
       a. Math and reading scores bye grades
         
       Math. In the second chart a NaN i set for the 9th graders 
+      
       ![math_score_by_grade_o](Resources/math_score_by_grade_o.png)  ![math_score_by_grade_n](Resources/math_score_by_grade_n.png) 
           
         
       Reading. In the second chart a NaN i set for the 9th graders
+      
       ![reading_score_by_grade_o](Resources/reading_score_by_grade_o.png)  ![reading_score_by_grade_n](Resources/reading_score_by_grade_n.png)
       
       b. Scores by school spending
       The socores by school spending increases overall
+      
       ![school_spending_n](Resources/school_spending_n.png)  
         
       c. Scores by type
+      
       ![school_type_n](Resources/school_type_n.png)  
         
 
